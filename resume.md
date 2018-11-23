@@ -9,16 +9,9 @@
 ----------------
 추천 사이트 
 
-[개인 블로그](https://blog.naver.com/tjdgh25456)
-
-<http://www.hallym.ac.kr>
-
-*이탤릭체*
-
-**볼드체**
+[IT이야기 블로그]https://blog.naver.com/tjdgh25456)
 
 
+자기 소개서 : 저는 고등학교때부터 발명을 하면서   
 
-1  |  2
--- | --
-3  |  4
+
