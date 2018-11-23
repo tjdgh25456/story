@@ -9,7 +9,7 @@
 ----------------
 추천 사이트 
 
-[google](http://www.google.com)
+[개인 블로그](https://blog.naver.com/tjdgh25456)
 
 <http://www.hallym.ac.kr>
 
